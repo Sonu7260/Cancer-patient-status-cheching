@@ -1,1 +1,1 @@
-# Cancer-patient-status-cheching
+# Cancer-patient-status-checking
